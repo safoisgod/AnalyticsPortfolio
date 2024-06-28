@@ -23,10 +23,13 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Technology:** Microsoft Excel.</br></br>
 ![Traversing Computation Sheet Template](https://github.com/safoisgod/images/blob/main/Traversing%20Computation%20Google%20Sheet%20Screenshoot?raw=true)
 
-### [Project 3: freeCodeCamp's Data Analysis with Python](https://github.com/safoisgod/freecodecamp_Data-Analysis-with-Python-Programming)
+### [Project 3: HarvardX: CS50's Introduction to Programming with Python](https://github.com/safoisgod/HarvardX-CS50-s-Introduction-to-Programming-with-Python)
+
+
+### [Project 4: freeCodeCamp's Data Analysis with Python](https://github.com/safoisgod/freecodecamp_Data-Analysis-with-Python-Programming)
 Analysing data using python programming language on freeCodeCamp's Data Analytics Projects. Applied frameworks and libraries such as pandas, numpy and matplotlib to complete certification tasks.
 
-### [Project 4: Python Tutorials Collection](https://github.com/safoisgod/python-tutorials-1)
+### [Project 5: Python Tutorials Collection](https://github.com/safoisgod/python-tutorials-1)
 **Description:** A set of lessons for budding Python programmers, which encompasses various Python functions, libraries and their applications in simple projects that can be learned and uderstood with ease.</br></br>
 **Skills:** Data Analysis, Data Cleaning, Data Visualisation.</br></br>
 **Technology:** Python, Numpy, Matplotlib.</br></br>
