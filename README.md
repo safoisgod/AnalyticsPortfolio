@@ -24,3 +24,4 @@ Analysing data using python programming language on freeCodeCamp's Data Analytic
 
 ## [Project 4: Python Tutorials Collection](https://github.com/safoisgod/python-tutorials-1)
 A set of lessons for budding Python programmers, which encompasses various Python functions, libraries and their applications in simple projects that can be learned and uderstood with ease.
+![Traversing Computation Sheet Template](https://github.com/safoisgod/images/blob/main/How-To-Learn-Python-1.jpg?raw=true)
