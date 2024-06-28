@@ -18,4 +18,5 @@ Production of data collection sheets for various purposes including ‘construct
 Utilising Microsoft Excel software in the processing of various survey data for quick analysis on and off site. Produced sheets for processing levelling data and data for highway engineering as well as matrix calculations.
 
 	
-
+## [Project 3: freeCodeCamp's Data Analysis with Python](https://github.com/safoisgod/freecodecamp_Data-Analysis-with-Python-Programming)
+Analysing data using python programming language on freeCodeCamp's Data Analytics Projects. Applied frameworks and libraries such as pandas, numpy and matplotlib to complete certification tasks.
