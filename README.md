@@ -27,7 +27,10 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 
 
 ### [Project 4: freeCodeCamp's Data Analysis with Python](https://github.com/safoisgod/freecodecamp_Data-Analysis-with-Python-Programming)
-Analysing data using python programming language on freeCodeCamp's Data Analytics Projects. Applied frameworks and libraries such as pandas, numpy and matplotlib to complete certification tasks.
+**Description:** Analysing data using python programming language on freeCodeCamp's Data Analytics Projects. Applied frameworks and libraries such as pandas, numpy and matplotlib to complete certification tasks.</br></br>
+**Skills:** Data Analysis, Data Visualisation.</br></br>
+**Technology:** Python, Numpy, Matplotlib, Seaborn, Pandas.</br></br>
+![Medical Data Visualizer](https://github.com/safoisgod/images/blob/main/Medical-Data-Visualizer.png?raw=true)
 
 ### [Project 5: Python Tutorials Collection](https://github.com/safoisgod/python-tutorials-1)
 **Description:** A set of lessons for budding Python programmers, which encompasses various Python functions, libraries and their applications in simple projects that can be learned and uderstood with ease.</br></br>
