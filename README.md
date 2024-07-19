@@ -4,21 +4,21 @@ Analytics Portfolio
 Welcome to Safo's Analytics Portfolio repository! This collection showcases various data analyst projects completed over years for academic, self-learning, and hobby purposes. Whether you’re an experienced professional or a sprouting analyst, you’ll find a diverse range of interesting projects here from time to time. 
 
 ## Key Features
-**Exploratory Data Analysis (EDA):** Dive into different datasets and enhance your data analysis skills. Explore data, identify patterns, and visualize insights.</br>
-**Excel, Python, SQL, and More:** The projects here will cover a variety of platforms, including  Python, R, SQL, and even data visualization tools like Tableau.</br>
-**Continuous Learning:** We believe in lifelong learning. Contributors regularly update their projects, incorporating new techniques and best practices.</br>
+**Exploratory Data Analysis (EDA):** Lets all dive into different datsets and enhance our analytical skilss. We will explore data, identify patterns, and visualize insights.</br>
+**Excel, Python, SQL, and More:** The projects here will cover a variety of platforms, including  Excel, Python, SQL, and even data visualization tools like PowerBi.</br>
+**Continuous Learning:** I belive in lifelong learning so I will regularly this portfolio with new projects, and incoorporate new techniques and the best practices.</br>
 </br></br>
 **Feel free to explore the projects, contribute, and learn from each other. Happy analyzing! 📊🔍**
 
 ## PROJECTS
-### [Project 1: Construction Data Collection Template](https://docs.google.com/spreadsheets/d/1tg3gPkUsSo0rVskJRUlPEoBh7cG9P0iNH7ALJtNL1Vo/edit?usp=drive_link)
-**Description:** Production of data collection sheets for various purposes including ‘construction project progress data collection sheet’ for easy data compilation and access. Sheets are automated with all necessary data relating to activity reports for efficient, controlled and clean data.</br></br>
+### [Project 1: Construction Progress Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1tg3gPkUsSo0rVskJRUlPEoBh7cG9P0iNH7ALJtNL1Vo/edit?usp=drive_link)
+**Description:** The Construction Progress Tracking Spreadsheet is a dynamic tool designed to monitor and manage construction projects. It allows project managers, contractors, and stakeholders to record and analyze critical data related to construction progress.</br></br>
 **Skills:** Data Validation, Data Analysis, Data Collection, Data Cleaning.</br></br>
 **Technology:** Microsoft Excel.</br></br>
 ![Constrcution Projects Progress Reporting Template](https://github.com/safoisgod/images/blob/main/Construction%20Project%20Progress%20Google%20Sheet%20Screenshot(brown)?raw=true)
 
 ### [Project 2: Excel Traversing Computation Sheet](https://docs.google.com/spreadsheets/d/1Nu5j44XIqCgifPWd4AstfWHa3xJQ4_RK/edit?usp=drive_link&ouid=114536779915464310121&rtpof=true&sd=true)
-**Description:** Utilising Microsoft Excel software in the processing of various survey data for quick analysis on and off site. Produced sheets for processing levelling data and data for highway engineering as well as matrix calculations.</br></br>
+**Description:**  The Traverse Calculation Spreadsheet is a powerful tool used by land surveyors to compute and adjust traverse measurements. It streamlines the process of determining coordinates, angles, distances, and closures for both closed and open traverses.</br></br>
 **Skills:** Data Validation, Data Analysis, Geomatics, Mathematic.</br></br>
 **Technology:** Microsoft Excel.</br></br>
 ![Traversing Computation Sheet Template](https://github.com/safoisgod/images/blob/main/Traversing%20Computation%20Google%20Sheet%20Screenshoot?raw=true)
