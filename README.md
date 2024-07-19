@@ -19,12 +19,15 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 
 ### [Project 2: Excel Traversing Computation Sheet](https://docs.google.com/spreadsheets/d/1Nu5j44XIqCgifPWd4AstfWHa3xJQ4_RK/edit?usp=drive_link&ouid=114536779915464310121&rtpof=true&sd=true)
 **Description:**  The Traverse Calculation Spreadsheet is a powerful tool used by land surveyors to compute and adjust traverse measurements. It streamlines the process of determining coordinates, angles, distances, and closures for both closed and open traverses.</br></br>
-**Skills:** Data Validation, Data Analysis, Geomatics, Mathematic.</br></br>
+**Skills:** Data Validation, Data Analysis, Geomatics, Mathematics.</br></br>
 **Technology:** Microsoft Excel.</br></br>
 ![Traversing Computation Sheet Template](https://github.com/safoisgod/images/blob/main/Traversing%20Computation%20Google%20Sheet%20Screenshoot?raw=true)
 
 ### [Project 3: HarvardX: CS50's Introduction to Programming with Python](https://github.com/safoisgod/HarvardX-CS50-s-Introduction-to-Programming-with-Python)
-
+**Description:**  The HavardX Python Course is an awesome introductory course that entails main practical exercises that have been coompleted ans compiled in this project. It encompasses various functions and libraries in the python environment.</br></br>
+**Skills:** Programming, Analysis, Mathematics.</br></br>
+**Technology:** Python.</br></br>
+![HarvardX: CS50's Introduction to Programming with Python](https://github.com/safoisgod/images/blob/main/HarvardX%20CS50s%20Introduction%20to%20Programming%20with%20Python.png)
 
 ### [Project 4: freeCodeCamp's Data Analysis with Python](https://github.com/safoisgod/freecodecamp_Data-Analysis-with-Python-Programming)
 **Description:** Analysing data using python programming language on freeCodeCamp's Data Analytics Projects. Applied frameworks and libraries such as pandas, numpy and matplotlib to complete certification tasks.</br></br>
