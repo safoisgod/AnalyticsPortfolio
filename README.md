@@ -1,16 +1,16 @@
 # Safo's_Analytics_Portfolio
 
-## Introduction
+## INTRODUCTION
 Welcome to Safo's Analytics Portfolio repository! This collection showcases various data analyst projects completed over years for academic, self-learning, and hobby purposes. Whether you’re an experienced professional or a sprouting analyst, you’ll find a diverse range of interesting projects here from time to time. 
 
-## Key Features
+## KEY FEATURES
 **Exploratory Data Analysis (EDA):** Lets all dive into different datsets and enhance our analytical skilss. We will explore data, identify patterns, and visualize insights.</br>
 **Excel, Python, SQL, and More:** The projects here will cover a variety of platforms, including  Excel, Python, SQL, and even data visualization tools like PowerBi.</br>
 **Continuous Learning:** I belive in lifelong learning so I will regularly this portfolio with new projects, and incoorporate new techniques and the best practices.</br>
 </br>
 **Feel free to explore the projects, contribute, and learn from each other. Happy analyzing! 📊🔍**
 
-## Contents
+## CONTENTS
 * [Introduction](#introduction)
 * [Projects](#projects)
   - [Portfolio Projects](#portfolio-projects)
