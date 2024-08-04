@@ -82,6 +82,10 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 <img alt = "Python Tutorials" src = "https://github.com/safoisgod/images/blob/main/How-To-Learn-Python-1.jpg?raw=true" width = "600">
 
 ## CERTIFICATES
+**[Executive Diploma in Business Management](https://www.udemy.com/certificate/UC-4b164846-5da4-47d9-a2c0-3c85bd69132a/)** (July, 2024) (Udemy)</br>
+**[Master Course : Finance Fundamentals and Finance Management](https://ude.my/UC-41783ce3-2605-4a80-b4a1-9089457e60e6)** (July, 2024) (Udemy)</br>
 **[Google Analytics Certificate](https://skillshop.exceedlms.com/student/award/JHF16TuXBG61jrNpFhw65gVj)** (April, 2024) (Skillshop-Google)</br>
 **[Accenture North America - Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_oPjf3cH2GtKm4LGpF_1712509416399_completion_certificate.pdf)** (April, 2024) (Forage)</br>
 **[Data Analysis with Python](https://freecodecamp.org/certification/iamnanasafo/data-analysis-with-python-v7)** (March, 2024) (freeCodeCamp)</br>
+
+
