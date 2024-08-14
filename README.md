@@ -15,7 +15,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 * [Projects](#projects)
   - [Portfolio Projects](#portfolio-projects)
     - [Excel Projects](#excel-projects)
-    - [
+    - [Medical Database](#medic-database-project)
   - [Study Projects](#study-projects)
     - [Excel Exercises](#excel-exercises)
     - [HarvardX: CS50's Introduction to Programming with Python](#harvardx)
