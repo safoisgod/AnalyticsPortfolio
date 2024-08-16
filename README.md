@@ -34,6 +34,14 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Status:** Ongoing.</br>
 <img alt ="Constrcution Projects Progress Reporting Template" src = "https://github.com/safoisgod/images/blob/main/Traversing%20Computation%20Google%20Sheet%20Screenshoot?raw=true" width = "600">
 
+#### Medic Database Project
+**Repository:** <a href = "https://github.com/safoisgod/sql_analysis/tree/main/MedicDB">
+  <code>medical-database</code></a> </br>
+**Description:** This repository features a range of Excel sheets designed mainly for collecting and analyzing data within the engineering survey/geomatic field.</br>
+**Here, you'll find** : *Data Templates*, *Analysis Tools*, *Case Studies*, and *Guidlines*.</br>
+**Skills:** SQL, Constarints, Functions, Data Analysis, Statistical Analysis</br>
+**Status:** Ongoing.</br>
+<img alt ="MedicalDB" src = "https://github.com/safoisgod/images/blob/main/MedicalDB" width = "600">
 
 ### Study Projects
 #### Excel Exercises
