@@ -37,9 +37,9 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 #### Medic Database Project
 **Repository:** <a href = "https://github.com/safoisgod/sql_analysis/tree/main/MedicDB">
   <code>medical-database</code></a> </br>
-**Description:** This repository features a range of Excel sheets designed mainly for collecting and analyzing data within the engineering survey/geomatic field.</br>
-**Here, you'll find** : *Data Templates*, *Analysis Tools*, *Case Studies*, and *Guidlines*.</br>
-**Skills:** SQL, Constarints, Functions, Data Analysis, Statistical Analysis</br>
+**Description:** This repository contains a collection of SQL scripts designed for the creation and maintenance of a comprehensive hospital or medical database. The scripts cover various aspects of hospital management, including patient records, staff information, appointments, medical history, billing, and inventory management.</br>
+**Here, you'll find** : *Triggers*, *Indexing*, *Transactions*, and *Security Measures*.</br>
+**Skills:** SQL, Database Design, Data Modelling, Statistical Analysis</br>
 **Status:** Ongoing.</br>
 <img alt ="MedicalDB" src = "https://github.com/safoisgod/images/blob/main/MedicalDB" width = "600">
 
