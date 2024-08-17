@@ -24,7 +24,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
     - [SQL Analysis - ALX](#sql-analysis-alx)
 
 ## PROJECTS
-### Portfolio Projects
+### <ins>Portfolio Projects</ins>
 #### Excel Projects
 **Repository:** <a href = "https://github.com/safoisgod/excel-exercises">
   <code>excel-exercises</code></a> </br>
@@ -43,7 +43,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Status:** Ongoing.</br>
 <img alt ="MedicalDB" src = "https://github.com/safoisgod/images/blob/main/MedicalDB" width = "600">
 
-### Study Projects
+### <ins>Study Projects</ins>
 #### Excel Exercises
 **Repository:** <a href = "https://github.com/safoisgod/excel-exercises">
   <code>excel-exercises</code></a> </br>
