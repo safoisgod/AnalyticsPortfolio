@@ -16,6 +16,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
   - [Portfolio Projects](#portfolio-projects)
     - [Excel Projects](#excel-projects)
     - [Medical Database](#medic-database-project)
+    - [World Malaria Dataset Exploratory Analysis](#world-malaria-dataset-exploratory-analysis)
   - [Study Projects](#study-projects)
     - [Excel Exercises](#excel-exercises)
     - [HarvardX: CS50's Introduction to Programming with Python](#harvardx)
@@ -43,6 +44,15 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Skills:** SQL, Database Design, Data Modelling, Statistical Analysis</br>
 **Status:** Ongoing.</br>
 <img alt ="MedicalDB" src = "https://github.com/safoisgod/images/blob/main/MedicalDB" width = "600">
+
+#### World Malaria Dataset Exploratory Analysis
+**Repository:** <a href = "https://github.com/safoisgod/jupyter/blob/main/Exploratory%20Analysis/2015%20Malaria%20Analysis/2015%20-%20World%20Malaria%20Analysis.ipynb">
+  <code>2015 World Malaria Analysis</code></a> </br>
+**Description:** This repository features a Jupyter Notebook dedicated to analyzing the 2015 World Malaria dataset. The notebook provides a comprehensive analysis of malaria incidence and related metrics across different regions and countries</br>
+**Here, you'll find** : *Data Explorations*, *Statistical Analysis*, *Visualisations*, and *Findings and Conclusions*.</br>
+**Skills:** Python, Pandas, Matplotlib, Git Integration</br>
+**Status:** Ongoing.</br>
+<img alt ="MalariaonJupyter" src = "https://github.com/safoisgod/images/blob/main/2015%20World%20Malaria%20Analysis.png" width = "600">
 
 ### <ins>Study Projects</ins>
 #### Excel Exercises
