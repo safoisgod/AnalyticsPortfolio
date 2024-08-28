@@ -20,8 +20,9 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
     - [Excel Exercises](#excel-exercises)
     - [HarvardX: CS50's Introduction to Programming with Python](#harvardx)
     - [freeCodeCamp Data Analysis with Python](#freecodecamp-data-analysis-with-python)
+    - [Fictitious Country Analysis - ALX](#alx-analysis)
     - [Python Tutorials Collection](#python-tutorials-collection)
-    - [SQL Analysis - ALX](#sql-analysis-alx)
+    
 
 ## PROJECTS
 ### <ins>Portfolio Projects</ins>
@@ -71,14 +72,14 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Status:** Completed in 2024.</br></br>
 <img alt = "Medical Data Visualizer" src = "https://github.com/safoisgod/images/blob/main/Medical-Data-Visualizer.png?raw=true" width ="600">
 
-#### SQL Analysis ALX
-**Repository:** <a href = "https://github.com/safoisgod/sql_analysis">
-  <code>SQL-analysis</code></a> </br>
-**Description:** This collection features hands-on SQL projects from the ALX Data Analysis Programme, designed to enhance your skills in querying and managing databases.</br>
-**Here, you'll find** : *Project Solutions*, *Data Manipulation*, *Query Optimization*, *Complex Queries*, *Data Aggregation* and *Database Design*.</br>
-**Skills:** Basic SQL Queries, Data Aggregation, Joins, Indexing and Performance Tuning, Data Filtering and Sorting</br>
+#### ALX Analysis
+**Repository:** <a href = "https://github.com/safoisgod/ALX-Analysis">
+  <code>ALX-analysis</code></a> </br>
+**Description:** This collection features hands-on Excel, SQL and PowerBi projects from the ALX Data Analysis Programme, designed to enhance your skills in cleaning datasets, querying and managing databases, and visualising insights.</br>
+**Here, you'll find** : *Project Solutions*, *Data Manipulation*, *Data Models*, *Complex Queries*, *Data Aggregation*, *Dashboards*, *Visualisations*, and *Database Design*.</br>
+**Skills:** Data Analysis and Visualisation, Problem Solving and Troubleshooting, Data Integration, ETL Communication & Presentation</br>
 **Status:** Complete .</br>
-<img alt ="ALX Maji Ndogo Water Crisis SQL Analysis" src = "https://github.com/safoisgod/images/blob/main/ALX%20SQL%20Analysis.png" width = "600">
+<img alt ="ALX Maji Ndogo Water Crisis SQL Analysis" src = "https://github.com/safoisgod/images/blob/main/ALX%20Visuals%203.png" width = "600">
 
 #### Python Tutorials Collection
 **Repostory** <a href = "https://github.com/safoisgod/python-tutorials-1">
