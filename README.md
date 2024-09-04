@@ -16,6 +16,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
   - [Portfolio Projects](#portfolio-projects)
     - [Excel Projects](#excel-projects)
     - [Medical Database](#medic-database-project)
+    - [Calculator Program](#calculator-program)
     - [World Malaria Dataset Exploratory Analysis](#world-malaria-dataset-exploratory-analysis)
   - [Study Projects](#study-projects)
     - [Excel Exercises](#excel-exercises)
@@ -44,6 +45,16 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 **Skills:** SQL, Database Design, Data Modelling, Statistical Analysis</br>
 **Status:** Ongoing.</br>
 <img alt ="MedicalDB" src = "https://github.com/safoisgod/images/blob/main/MedicalDB" width = "600">
+
+#### Calculator Program
+**Repository:** <a href = "https://github.com/safoisgod/python-tutorials/blob/main/projects/small/Calculator%20App/main.py">
+  <code>Simple Calculator App</code></a> </br>
+**Description:** TThis is a simple yet functional calculator application built using Python's Tkinter library and SymPy for mathematical computations. It features a clean and modern user interface with a range of basic arithmetic operations including addition, subtraction, multiplication, and division.</br>
+**Here, you'll find** : *Arithmetic Calculations*, *User-Friendly Interface*, *Error Handling*, and *Modern Design*.</br>
+**Skills:** Python, Tkinter, SymPy</br>
+**Status:** Completed.</br>
+<img alt ="Calculator" src = "https://github.com/safoisgod/images/blob/main/Calc%20App(updated).png" width = "500" height = "350">
+
 
 #### World Malaria Dataset Exploratory Analysis
 **Repository:** <a href = "https://github.com/safoisgod/jupyter/blob/main/Exploratory%20Analysis/2015%20Malaria%20Analysis/2015%20-%20World%20Malaria%20Analysis.ipynb">
