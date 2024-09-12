@@ -57,7 +57,7 @@ Welcome to Safo's Analytics Portfolio repository! This collection showcases vari
 
 
 #### World Malaria Dataset Exploratory Analysis
-**Repository:** <a href = "https://github.com/safoisgod/jupyter/blob/main/Exploratory%20Analysis/2015%20Malaria%20Analysis/2015%20-%20World%20Malaria%20Analysis.ipynb">
+**Repository:** <a href = "https://github.com/safoisgod/jupyter/blob/main/Exploratory%20Analysis/2015%20Malaria%20Analysis/2015%20-%20World%20Malaria%20Analysis">
   <code>2015 World Malaria Analysis</code></a> </br>
 **Description:** This repository features a Jupyter Notebook dedicated to analyzing the 2015 World Malaria dataset. The notebook provides a comprehensive analysis of malaria incidence and related metrics across different regions and countries</br>
 **Here, you'll find** : *Data Explorations*, *Statistical Analysis*, *Visualisations*, and *Findings and Conclusions*.</br>
