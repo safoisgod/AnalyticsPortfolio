@@ -13,6 +13,7 @@ Welcome to my analytics portfolio repository! This collection showcases data ana
     - [Medical Database Project](#medical-database-project)
     - [Calculator Program](#calculator-program)
     - [World Malaria Dataset Exploratory Analysis](#world-malaria-dataset-exploratory-analysis)
+    - [Healthcare Analysis] (#healthcare-analysis-dashboard)
   - [Study Projects](#study-projects)
     - [Excel Exercises](#excel-exercises)
     - [HarvardX: CS50's Introduction to Programming with Python](#harvardx-cs50s-introduction-to-programming-with-python)
@@ -82,7 +83,7 @@ Feel free to explore, contribute, and learn from my work. Happy analyzing! ðŸš€ð
 - **Description:** A Power BI dashboard analyzing healthcare data from the Onyx Data April Challenge, featuring patient distributions, revenue by insurance provider, length of stay insights, and monthly admission trends.  
 - **Skills:** Power BI, Data Visualization, Data Analysis, Dashboard Design.  
 - **Status:** Completed.<br>  
-![Healthcare Dashboard](https://github.com/safoisgod/images/blob/main/healthcare-analysis-dashboard.png)
+![Healthcare Dashboard](https://github.com/safoisgod/images/blob/main/IMG_2475.png)
 
 ### **Study Projects**
 #### **Excel Exercises**
