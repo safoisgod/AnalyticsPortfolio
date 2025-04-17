@@ -77,6 +77,13 @@ Feel free to explore, contribute, and learn from my work. Happy analyzing! ðŸš€ð
 
 ---
 
+#### **Healthcare Analysis Dashboard**
+- **Repository:** [Healthcare Analysis Dashboard](https://github.com/safoisgod/powerbi/healthcare-analysis-dashboard)  
+- **Description:** A Power BI dashboard analyzing healthcare data from the Onyx Data April Challenge, featuring patient distributions, revenue by insurance provider, length of stay insights, and monthly admission trends.  
+- **Skills:** Power BI, Data Visualization, Data Analysis, Dashboard Design.  
+- **Status:** Completed.<br>  
+![Healthcare Dashboard](https://github.com/safoisgod/images/blob/main/healthcare-analysis-dashboard.png)
+
 ### **Study Projects**
 #### **Excel Exercises**
 - **Repository:** [Excel Exercises](https://github.com/safoisgod/excel-exercises)
