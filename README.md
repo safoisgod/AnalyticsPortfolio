@@ -9,11 +9,12 @@ Welcome to my analytics portfolio repository! This collection showcases data ana
 - [Key Features](#key-features)
 - [Projects](#projects)
   - [Portfolio Projects](#portfolio-projects)
+    - [NYC Yellow Taxi Trip Analysis](#NYC-Yellow-Taxi-Trip-Analysis-PYTHON) 
     - [Excel Projects](#excel-projects)
     - [Medical Database Project](#medical-database-project)
     - [Calculator Program](#calculator-program)
     - [World Malaria Dataset Exploratory Analysis](#world-malaria-dataset-exploratory-analysis)
-    - [Healthcare Analysis] (#healthcare-analysis-dashboard)
+    - [Healthcare Analysis](#healthcare-analysis-dashboard)
   - [Study Projects](#study-projects)
     - [Excel Exercises](#excel-exercises)
     - [HarvardX: CS50's Introduction to Programming with Python](#harvardx-cs50s-introduction-to-programming-with-python)
@@ -42,6 +43,15 @@ Feel free to explore, contribute, and learn from my work. Happy analyzing! ðŸš€ð
 
 ## **Projects**
 ### **Portfolio Projects**
+
+#### **NYC Yellow Taxi Trip Analysis - Python**
+- **Repository:** [NYC Yellow Taxi Trip Analysis](link)
+- **Description:** Performed exploratory data analysis on large public taxi datasets using Python to identify peak demand periods, location trends, and payment behavior patterns. Includes data cleaning, transformation, and visualization of trip data.
+- **Skills:** Python, Pandas, Jupyter Notebook, Data Visualization, Exploratory Data Analysis.
+- **Status:** Completed.<br>
+![NYC Taxi Analysis](https://via.placeholder.com/800x400?text=NYC+Taxi+Analysis)
+
+
 #### **Excel Projects**
 - **Repository:** [Excel Exercises](https://github.com/safoisgod/excel-exercises)
 - **Description:** A collection of Excel sheets tailored for engineering survey/geomatics data analysis. Includes *Data Templates*, *Case Studies*, and *Analysis Tools*.
